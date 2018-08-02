@@ -1,4 +1,2 @@
 # microservice-registry
-##eureka做注册中心
-##zookeeper做注册中心
-##etcd做注册中心
+介绍了 eureka、zookeeper、etcd做注册中心，详见各工程中的介绍
