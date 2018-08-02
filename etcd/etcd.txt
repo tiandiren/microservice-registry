@@ -1,2 +1,0 @@
-etcd启动：etcd  --data-dir data.etcd/  --listen-client-urls http://yourip:2379 --advertise-client-urls http://yourip:2379 & >log/etcd.log
-etcdctl操作：etcdctl --endpoints=http://yourip:2379
